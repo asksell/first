@@ -6,3 +6,4 @@ commit test 6    change in terminal
 commit test 5    change in web
 >>>>>>> c1f7a43b5535a5a5e2dd45adef0c6056fc1efe94
 
+new sting added in pycharm
