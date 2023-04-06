@@ -1,5 +1,0 @@
-new test file
-
-commit test
-
-read text
